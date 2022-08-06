@@ -7,7 +7,7 @@
 * [Apple](https://github.com/daniilak/left-russia/blob/main/APPLE.md)
 * [Роскомнадзор](https://github.com/daniilak/left-russia/blob/main/%D0%A0%D0%9E%D0%A1%D0%9A%D0%9E%D0%9C%D0%9D%D0%90%D0%94%D0%97%D0%9E%D0%A0.md)
 * [Вкусно и точка](https://github.com/daniilak/left-russia/blob/main/%D0%92%D0%9A%D0%A3%D0%A1%D0%9D%D0%9E%20%D0%98%20%D0%A2%D0%9E%D0%A7%D0%9A%D0%90.md) (бывший McDonald’s)
-* ИКЕА
+* [ИКЕА](https://github.com/daniilak/left-russia/blob/main/IKEA.md)
 
 ## Источники
 
