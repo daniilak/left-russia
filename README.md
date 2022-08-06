@@ -2,16 +2,16 @@
 
 В список попали компании, которые как-то отреагировали из-за ситуации вокруг Украины
 Мне пришлось вынести отдельно списки новостей по:
-* Компании Meta Platforms (признана в РФ экстремистской организацией, её деятельность в стране запрещена) 
-* Google, включая You Tube
-* Apple
-* Western Union
-* Роскомнадзор
-* Вкусно и точка (бывший McDonald’s)
+* Компании [**Meta Platforms**](https://github.com/daniilak/left-russia/blob/main/META.md) (признана в РФ экстремистской организацией, её деятельность в стране запрещена) 
+* [Google](https://github.com/daniilak/left-russia/blob/main/GOOGLE.md)
+* [Apple](https://github.com/daniilak/left-russia/blob/main/APPLE.md)
+* [Роскомнадзор](https://github.com/daniilak/left-russia/blob/main/%D0%A0%D0%9E%D0%A1%D0%9A%D0%9E%D0%9C%D0%9D%D0%90%D0%94%D0%97%D0%9E%D0%A0.md)
+* [Вкусно и точка](https://github.com/daniilak/left-russia/blob/main/%D0%92%D0%9A%D0%A3%D0%A1%D0%9D%D0%9E%20%D0%98%20%D0%A2%D0%9E%D0%A7%D0%9A%D0%90.md) (бывший McDonald’s)
 * ИКЕА
 
 ## Источники
-# Информация взята из телеграм канала [**Раньше всех. Ну почти**](https://t.me/bbbreaking)
+
+ Информация взята из телеграм канала [**Раньше всех. Ну почти**](https://t.me/bbbreaking)
 
 ## Помощь
 
