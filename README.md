@@ -9,9 +9,7 @@
 * [Вкусно и точка](https://github.com/daniilak/left-russia/blob/main/%D0%92%D0%9A%D0%A3%D0%A1%D0%9D%D0%9E%20%D0%98%20%D0%A2%D0%9E%D0%A7%D0%9A%D0%90.md) (бывший McDonald’s)
 * [ИКЕА](https://github.com/daniilak/left-russia/blob/main/IKEA.md)
 
-## Источники
-
- Информация взята из телеграм канала [**Раньше всех. Ну почти**](https://t.me/bbbreaking)
+Всего в списке ниже - 254 компании. Это только те, информация о которых взята из телеграм канала [**Раньше всех. Ну почти**](https://t.me/bbbreaking)
 
 ## Помощь
 
